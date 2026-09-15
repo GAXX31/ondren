@@ -1,0 +1,37 @@
+name: Relatar um problema
+description: Conte o que aconteceu no Ondren.
+title: "[Problema] "
+body:
+  - type: markdown
+    attributes:
+      value: "Não inclua senhas, gravações de chamadas ou configurações completas."
+  - type: input
+    id: version
+    attributes:
+      label: Versão do Ondren
+      placeholder: "1.5.1 · beta 1"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Versão do Windows
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: O que aconteceu e como reproduzir?
+      description: "Inclua o que esperava e o que ocorreu."
+    validations:
+      required: true
+  - type: textarea
+    id: devices
+    attributes:
+      label: Dispositivos e contexto
+      description: "Microfone, fone, dispositivo virtual e aplicativo de chamada ou jogo."
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Mensagem de erro ou imagem
+      description: "Remova informações pessoais antes de anexar."
