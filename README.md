@@ -37,6 +37,14 @@ O executável ainda não tem assinatura digital de editor. O Windows pode aprese
 
 A versão passou por 156 testes automatizados de áudio e arquivos, além de verificações de interface. Isso não substitui testes em diferentes computadores e dispositivos. Consulte [as perguntas frequentes](FAQ.md).
 
+## Apoiar o desenvolvimento
+
+Gostou do Ondren? Você pode contribuir voluntariamente para ajudar nas correções, melhorias de áudio e próximas versões. A beta continua gratuita, com os mesmos recursos para todos.
+
+**[Apoiar por Pix no site do Ondren](https://ondren.pages.dev/#apoie)** — escolha o valor no aplicativo do seu banco.
+
+Sugestões e relatos de problemas também ajudam o projeto a evoluir.
+
 ## Participar
 [Relatar um problema](https://github.com/GAXX31/ondren/issues/new?template=problema.yml) · [Sugerir uma melhoria](https://github.com/GAXX31/ondren/issues/new?template=sugestao.yml) · [Histórico de atualizações](NOVIDADES.md)
 
