@@ -5,6 +5,8 @@
 
 **[Visite o site oficial do Ondren — ondren.pages.dev](https://ondren.pages.dev)**
 
+[YouTube](https://www.youtube.com/@ondrenaudio) · [Instagram](https://www.instagram.com/ondrenaudio/) · [E-mail de contato](mailto:ondren.audio@gmail.com)
+
 ## Baixar a beta gratuita
 **[Baixar Ondren para Windows 64 bits](https://github.com/GAXX31/ondren/releases/download/v1.5.1-beta.1/Ondren-1.5.1-beta.1-Windows-x64.zip)** · [Notas e arquivos da versão](https://github.com/GAXX31/ondren/releases/tag/v1.5.1-beta.1)
 
@@ -49,3 +51,14 @@ Sugestões e relatos de problemas também ajudam o projeto a evoluir.
 [Relatar um problema](https://github.com/GAXX31/ondren/issues/new?template=problema.yml) · [Sugerir uma melhoria](https://github.com/GAXX31/ondren/issues/new?template=sugestao.yml) · [Histórico de atualizações](NOVIDADES.md)
 
 Ao enviar um relato, evite incluir dados pessoais, gravações de chamadas ou arquivos de configuração completos.
+
+## Redes e contato
+
+Acompanhe as demonstrações e novidades do Ondren nos canais oficiais:
+
+- **YouTube:** [@ondrenaudio](https://www.youtube.com/@ondrenaudio)
+- **Instagram:** [@ondrenaudio](https://www.instagram.com/ondrenaudio/)
+- **E-mail:** [ondren.audio@gmail.com](mailto:ondren.audio@gmail.com) — dúvidas, sugestões e parcerias.
+- **Site:** [ondren.pages.dev](https://ondren.pages.dev)
+
+Para problemas no aplicativo, prefira [abrir um relato no GitHub](https://github.com/GAXX31/ondren/issues/new?template=problema.yml), para acompanhar a resolução.
