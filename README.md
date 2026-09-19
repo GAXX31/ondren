@@ -8,9 +8,13 @@
 [YouTube](https://www.youtube.com/@ondrenaudio) · [Instagram](https://www.instagram.com/ondrenaudio/) · [Facebook](https://www.facebook.com/profile.php?id=61594521719925) · [E-mail de contato](mailto:ondren.audio@gmail.com)
 
 ## Baixar a beta gratuita
-**[Baixar Ondren para Windows 64 bits](https://github.com/GAXX31/ondren/releases/download/v1.5.1-beta.1/Ondren-1.5.1-beta.1-Windows-x64.zip)** · [Notas e arquivos da versão](https://github.com/GAXX31/ondren/releases/tag/v1.5.1-beta.1)
+**[Baixar instalador do Ondren para Windows 64 bits](https://github.com/GAXX31/ondren/releases/download/v1.6.0-beta.1/Ondren-1.6.0-beta.1-Windows-x64-Setup.exe)**
 
-Versão do aplicativo: **1.5.1**. Primeira distribuição pública: **beta 1**. Extraia a pasta inteira e abra `Ondren.exe`. O .NET necessário já acompanha o aplicativo.
+[Preferir o ZIP portátil](https://github.com/GAXX31/ondren/releases/download/v1.6.0-beta.1/Ondren-1.6.0-beta.1-Windows-x64.zip) · [Notas e arquivos da versão](https://github.com/GAXX31/ondren/releases/tag/v1.6.0-beta.1)
+
+Versão do aplicativo: **1.6.0 · Beta 1**. O instalador permite escolher a pasta no SSD ou no HD, cria atalhos e inclui desinstalador. O .NET necessário acompanha as duas opções.
+
+**Já usa o Ondren?** Feche o aplicativo e escolha a mesma pasta que contém seu `Ondren.exe` para preservar configurações e caminhos dos áudios. Instalar em outra pasta não transfere os dados automaticamente.
 
 ![Mesa do Ondren com sons de demonstração](assets/mesa.png)
 
@@ -21,10 +25,11 @@ Versão do aplicativo: **1.5.1**. Primeira distribuição pública: **beta 1**. 
 - Cortar áudios, remover silêncio inicial, aplicar fades e salvar uma nova cópia.
 - Gravar a mistura ou três faixas sincronizadas: mistura, voz tratada e soma dos pads.
 - Exportar cenas com seus áudios e usar o modo compacto ou a bandeja do Windows.
+- Acessar e-mail, redes sociais, relatos de problemas e sugestões em **Ajuda → Contato e comunidade**.
 
 ## Primeiros passos
-1. Baixe o ZIP e escolha **Extrair tudo** no Windows.
-2. Abra `Ondren.exe`. Mantenha `Assets`, `Native` e `Licencas` junto dele.
+1. Baixe e execute o instalador. Escolha uma pasta com permissão de escrita. Se preferir o ZIP portátil, escolha **Extrair tudo** no Windows.
+2. Abra o Ondren pelo menu Iniciar ou por `Ondren.exe`. Na versão portátil, mantenha `Assets`, `Native` e `Licencas` junto dele.
 3. Selecione seu microfone físico e seu fone. O app inicia com a mesa desligada.
 4. Para levar a mistura ao Discord, configure um dispositivo virtual como o [VB-CABLE oficial](https://vb-audio.com/Cable/), instalado separadamente.
 5. No Ondren, envie para **CABLE Input**. No Discord, selecione **CABLE Output** como entrada e o fone físico como saída.

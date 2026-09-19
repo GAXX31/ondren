@@ -1,5 +1,15 @@
 # Novidades do Ondren
 
+## 1.6.0 · Instalação e contato — 19/09/2026
+
+- Títulos e descrições dos botões de contato e redes alinhados pela mesma margem à esquerda.
+- Instalador para Windows x64 com escolha da pasta, atalho no menu Iniciar e opção de atalho na área de trabalho.
+- Atualizações na mesma pasta preservam Dados, biblioteca, atalhos e áudios pessoais. A desinstalação mantém esses arquivos.
+- Ajuda → Contato e comunidade reúne e-mail com botão de copiar, relatos de problemas, sugestões, site, YouTube, Instagram, Facebook e GitHub.
+- O instalador não inclui o driver virtual. As instruções para o VB-CABLE continuam disponíveis no aplicativo e no site.
+- A versão portátil continua disponível. A atualização permanece manual e os executáveis ainda não têm assinatura digital.
+
+
 ## 1.5.1 · Menor atividade em segundo plano — 15/09/2026
 - A mesa passa a atualizar a interface com menor frequência em repouso e deixa de atualizar os pads e medidores quando está oculta na bandeja.
 - O modo compacto atualiza seus próprios controles, sem redesenhar a mesa completa escondida. Textos e cores dos pads são reutilizados quando o estado não mudou.

@@ -16,7 +16,7 @@ Confira destino, volume, mute/solo e master. Depois revise a supressão de ruíd
 Configurações e biblioteca ficam em Dados, dentro da pasta do aplicativo. Áudios normalmente continuam nas pastas originais. Cenas completas importadas guardam cópias em Dados/CenasImportadas. Preserve Dados e seus áudios ao atualizar.
 
 ## A atualização é automática?
-Ainda não. Feche o Ondren, extraia a nova versão e copie os arquivos para sua pasta atual, preservando Dados e seus áudios. Leia as notas antes de atualizar. O ZIP da distribuição não inclui configurações pessoais.
+Ainda não. Feche o Ondren e execute o novo instalador na mesma pasta que contém seu Ondren.exe. Isso também funciona para atualizar uma cópia portátil. Se preferir o ZIP, extraia e copie os arquivos para a pasta atual, preservando Dados e seus áudios. Instalar em outra pasta não transfere configurações automaticamente. Leia as notas antes de atualizar.
 
 ## O editor modifica o original?
 Não. Ele salva uma nova cópia WAV estéreo, 48 kHz / 16 bits. Aceita sons mono ou estéreo de até 30 minutos. A normalização ajusta o pico a −1 dB; não é normalização de volume percebido/LUFS.
@@ -35,4 +35,10 @@ O executável ainda não possui assinatura digital de editor. Baixe pela Release
 - As saídas usam 48 kHz estéreo. Buffers de 40/80/120 ms são configurações, não a latência total medida.
 - A reconexão depende de um clique; pads e gravação não retomam automaticamente.
 - O dispositivo virtual é instalado separadamente.
-- Distribuição portátil, sem instalador próprio, assinatura digital ou atualização automática nesta etapa.
+- Instalador e ZIP portátil disponíveis; sem assinatura digital ou atualização automática nesta etapa.
+
+## O desinstalador apaga meus áudios e configurações?
+Não. Ele remove os arquivos instalados do aplicativo e mantém os dados pessoais na pasta escolhida. Por isso, a pasta pode continuar existindo após desinstalar.
+
+## Como entro em contato?
+Abra **Ajuda → Contato e comunidade** para escrever ou copiar o e-mail, enviar sugestões, relatar problemas e acessar os canais oficiais. O endereço é ondren.audio@gmail.com.
