@@ -48,7 +48,9 @@ A versão passou por 156 testes automatizados de áudio e arquivos, além de ver
 
 Gostou do Ondren? Você pode contribuir voluntariamente para ajudar nas correções, melhorias de áudio e próximas versões. A beta continua gratuita, com os mesmos recursos para todos.
 
-**[Apoiar por Pix no site do Ondren](https://ondren.pages.dev/#apoie)** — escolha o valor no aplicativo do seu banco.
+**[Apoiar pelo Mercado Pago](https://ondren.pages.dev/apoio/)** — entre ou crie sua Conta Ondren e escolha um apoio único a partir de R$ 10. A forma de pagamento é escolhida no checkout do Mercado Pago.
+
+Um apoio válido durante a beta garante uma licença no lançamento oficial, com todas as versões e atualizações futuras incluídas, sem assinatura. O apoio e o benefício ficam vinculados à Conta Ondren. [Confira as regras do apoio](https://ondren.pages.dev/regras-apoio/).
 
 Sugestões e relatos de problemas também ajudam o projeto a evoluir.
 
