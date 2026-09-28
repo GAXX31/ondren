@@ -8,11 +8,11 @@
 [YouTube](https://www.youtube.com/@ondrenaudio) · [Instagram](https://www.instagram.com/ondrenaudio/) · [Facebook](https://www.facebook.com/profile.php?id=61594521719925) · [E-mail de contato](mailto:ondren.audio@gmail.com)
 
 ## Baixar a beta gratuita
-**[Baixar instalador do Ondren para Windows 64 bits](https://github.com/GAXX31/ondren/releases/download/v1.6.0-beta.1/Ondren-1.6.0-beta.1-Windows-x64-Setup.exe)**
+**[Baixar instalador do Ondren para Windows 64 bits](https://github.com/GAXX31/ondren/releases/download/v1.7.0-beta.1/Ondren-1.7.0-beta.1-Windows-x64-Setup.exe)**
 
-[Preferir o ZIP portátil](https://github.com/GAXX31/ondren/releases/download/v1.6.0-beta.1/Ondren-1.6.0-beta.1-Windows-x64.zip) · [Notas e arquivos da versão](https://github.com/GAXX31/ondren/releases/tag/v1.6.0-beta.1)
+[Preferir o ZIP portátil](https://github.com/GAXX31/ondren/releases/download/v1.7.0-beta.1/Ondren-1.7.0-beta.1-Windows-x64.zip) · [Notas e arquivos da versão](https://github.com/GAXX31/ondren/releases/tag/v1.7.0-beta.1)
 
-Versão do aplicativo: **1.6.0 · Beta 1**. O instalador permite escolher a pasta no SSD ou no HD, cria atalhos e inclui desinstalador. O .NET necessário acompanha as duas opções.
+Versão do aplicativo: **1.7.0 · Beta 1**. O instalador permite escolher a pasta no SSD ou no HD, cria atalhos e inclui desinstalador. O .NET necessário acompanha as duas opções.
 
 **Já usa o Ondren?** Feche o aplicativo e escolha a mesma pasta que contém seu `Ondren.exe` para preservar configurações e caminhos dos áudios. Instalar em outra pasta não transfere os dados automaticamente.
 
@@ -26,6 +26,12 @@ Versão do aplicativo: **1.6.0 · Beta 1**. O instalador permite escolher a past
 - Gravar a mistura ou três faixas sincronizadas: mistura, voz tratada e soma dos pads.
 - Exportar cenas com seus áudios e usar o modo compacto ou a bandeja do Windows.
 - Acessar e-mail, redes sociais, relatos de problemas e sugestões em **Ajuda → Contato e comunidade**.
+
+## Conta Ondren no aplicativo
+
+Em **Minha conta**, entre com a mesma conta do site e confirme o código no navegador. O login é opcional durante a beta. Consulte o benefício de apoiador e escolha se deseja compartilhar atividade básica (data de uso e versão), sem envio de áudio.
+
+[Gerenciar aplicativos conectados](https://ondren.pages.dev/conectar-app/) · [Privacidade da conta](https://ondren.pages.dev/privacidade-conta/)
 
 ## Primeiros passos
 1. Baixe e execute o instalador. Escolha uma pasta com permissão de escrita. Se preferir o ZIP portátil, escolha **Extrair tudo** no Windows.
