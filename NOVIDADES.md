@@ -1,6 +1,22 @@
 # Novidades do Ondren
 
+## 1.7.0 · Sua conta no aplicativo — 28/09/2026
+
+- Minha conta permite entrar com a mesma Conta Ondren do site, confirmando um código no navegador. O login é opcional durante a beta.
+- Consulte o benefício de apoiador vinculado à sua conta, sem precisar informar a senha dentro do app.
+- A sessão fica protegida pelo Windows. Você pode sair no aplicativo ou encerrar a conexão pelo site.
+- Compartilhar atividade é opcional: registra somente data de uso e versão, vinculadas à conta. Não envia áudio, gravações ou conteúdo das chamadas.
+- A conta do criador recebe identificação própria e acesso privado ao painel de uso.
+- Corrigido o espaçamento do menu Minha conta. Os painéis continuam dentro da janela principal.
+
 ## 1.6.0 · Instalação e contato — 19/09/2026
+
+Correção de interface · 21/09/2026 (mesma versão):
+- Estúdio, efeitos, biblioteca, configurações e demais painéis abrem dentro da janela principal, com retorno à mesa.
+- A navegação mantém o áudio e os ajustes ativos. Seletores de arquivos continuam usando os diálogos do Windows.
+- Medidores da mesa são suspensos enquanto um painel está aberto; o estúdio prioriza a rolagem e evita atualizar textos iguais.
+- A verificação periódica de dispositivos passa a ocorrer em segundo plano para não bloquear a interface.
+
 
 - Títulos e descrições dos botões de contato e redes alinhados pela mesma margem à esquerda.
 - Instalador para Windows x64 com escolha da pasta, atalho no menu Iniciar e opção de atalho na área de trabalho.
